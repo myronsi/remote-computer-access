@@ -1,8 +1,8 @@
 # Remote Computer Access
 
 ## Описание
-Этот проект предназначен для удаленного управления компьютером через серверный интерфейс. Он включает серверные скрипты, инструменты для удаленного взаимодействия и конфигурации для настройки и развертывания.
+This project is designed to remotely control a computer via SSH connection. It includes scripts, tools for remote interaction, and configurations for setup and deployment.
 
-!! ИСПОЛЬЗОВАНИЕ ДАННЫХ ФАЙЛОВ С ЦЕЛЬЮ КРАЖИ ЛИЧНЫХ ДАННЫХ ИЛИ ШАНТАЖА ЯВЛЯТЬСЯ НЕ ЛЕГАЛЬНЫМ !!
+!! USING THESE FILES FOR THE PURPOSE OF IDENTITY THEFT OR BLACKMAIL IS ILLEGAL !!
 
-ФАЙЛЫ СОЗДАНЫ ЛИШЬ ДЛЯ ОЗНАКОМИТЕЛЬНЫХ ЦЕЛЕЙ, А НЕ ДЛЯ НАРУШЕНИЯ ЗАКОНА
+CREATED FOR EDUCATIONAL PURPOSES ONLY
